@@ -11,9 +11,6 @@ Key Features:
 - Power-ups that help you survive longer
 - Google Play leaderboard and achievements
 
-
-![screenshot](promo_pics/screenshot1.png)
-
-![screenshot](promo_pics/screenshot2.png)
-
-![screenshot](promo_pics/screenshot3.png)
+![screenshot](promo_pics/screenshot1.png) | ![screenshot](promo_pics/screenshot2.png)
+---|---
+![screenshot](promo_pics/screenshot3.png) |  

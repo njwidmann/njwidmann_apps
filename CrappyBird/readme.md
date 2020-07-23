@@ -14,16 +14,9 @@ Key Features:
 - \#THUNDERTACO
 
 
-![screenshot](promo_pics/screenshot1.png)
+![screenshot](promo_pics/screenshot1.png) | ![screenshot](promo_pics/screenshot2.png)
+---|---
+![screenshot](promo_pics/screenshot3.png) | ![screenshot](promo_pics/screenshot4.png)
 
-![screenshot](promo_pics/screenshot2.png)
-
-![screenshot](promo_pics/screenshot3.png)
-
-![screenshot](promo_pics/screenshot4.png)
-
-![screenshot](promo_pics/screenshot6.png)
-
-![screenshot](promo_pics/screenshot5.png) 
-
-![screenshot](promo_pics/screenshot7.png)
+![screenshot](promo_pics/screenshot6.png) | ![screenshot](promo_pics/screenshot5.png) | ![screenshot](promo_pics/screenshot7.png)
+---|----|---

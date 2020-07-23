@@ -11,12 +11,6 @@ It's a bright and sunny day amidst the greatest economic growth the world has ev
 * Keep expanding until you build up an intergalactic pizza empire centered around your own Pizza Planet.
 
 
-![screenshot](promo_pics/screenshot1.png)
-
-![screenshot](promo_pics/screenshot2.png)
-
-![screenshot](promo_pics/screenshot3.png)
-
-![screenshot](promo_pics/screenshot4.png)
-
-![screenshot](promo_pics/screenshot5.png)
+![screenshot](promo_pics/screenshot1.png) | ![screenshot](promo_pics/screenshot2.png) | ![screenshot](promo_pics/screenshot3.png)
+---|----|---
+![screenshot](promo_pics/screenshot4.png) | ![screenshot](promo_pics/screenshot5.png) |   
