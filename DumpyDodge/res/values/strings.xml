@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Dumpy Dodge</string>
+
+    <string name="jump">JUMP</string>
+    <string name="left">LEFT</string>
+    <string name="right">RIGHT</string>
+
+    <string name="signin_other_error">There was an error with sign-in. Please try again later.</string>
+    <string name="signin_failure">Unable to sign in.</string>
+    <string name="google_play_connection_error">Unable to connect to Google Play</string>
+    <string name="signed_out">Disconnected from Google Play</string>
+
+    <string name="rate_title">Rate Dumpy Dodge</string>
+    <string name="rate_message">If you enjoy playing Dumpy Dodge, please take a moment to rate it in the Play Store. Thanks for your support!</string>
+
+    <string name="remove_ads_thank_you_message">Congratulations! You have purchased the ad-free version of Dumpy Dodge.</string>
+    <string name="transaction_in_progress">Transaction already in progress. Please wait and try again later.</string>
+    <string name="something_went_wrong">Something went wrong. Please contact us for a refund or Google Play for in-app billing support.</string>
+    <string name="connection_error">Please check your connection and try again.</string>
+
+    <string name="already_purchased">Already purchased.</string>
+    <string name="could_not_launch_play_store">Could not launch Play Store.</string>
+    <string name="about">Dumpy Dodge would not have been possible without the generous contributions made by the following: \n\nGRAPHICS\n-NeoMetalSonic360 (gun)\n-DJBIG (spaceship)\n-CoffayBunny (gravestone)\n\nMUSIC\n-Jane Tangen</string>
+
+</resources>

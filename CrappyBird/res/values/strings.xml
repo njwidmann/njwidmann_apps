@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Crappy Bird</string>
+
+    <string name="edit_username">Username</string>
+    <string name="edit_password">Password</string>
+    <string name="button_login">Login</string>
+
+    <string name="edit_email">Email</string>
+    <string name="edit_password2">Password again</string>
+    <string name="button_sign_up">Sign Up</string>
+    <string name="button_recover">Recover Password</string>
+    <string name="button_forgot">Forgot Password</string>
+    <string name="connection_error">Please check your connection and try again.</string>
+    <string name="transaction_in_progress">Transaction already in progress. Please wait and try again later.</string>
+    <string name="could_not_launch_play_store">Could not launch Play Store.</string>
+    <string name="remove_ads_thank_you_message">Congratulations! You have purchased the ad-free version of Crappy Bird.</string>
+    <string name="already_purchased">Already purchased.</string>
+    <string name="unable_to_sign_in">Unable to sign in.</string>
+    <string name="google_play_connection_error">Unable to connect to Google Play.</string>
+    <string name="signin_other_error">There was an error with sign-in. Please try again later.</string>
+    <string name="rate_title">Rate Crappy Bird</string>
+    <string name="rate_message">If you enjoy playing Crappy Bird, please take a moment to rate it in the Play Store. Thanks for your support!</string>
+    <string name="something_went_wrong">Something went wrong. Please contact us for a refund or Google Play for in-app billing support.</string>
+    <string name="i_just_scored">I just scored</string>
+    <string name="points_in_crappy_bird">points in Crappy Bird! This game is awesome. Get it on the Play Store and try to beat my score. https://goo.gl/eDWvTO</string>
+    <string name="share">Share</string>
+    <string name="points_in_crappy_bird_twitter_share">points in Crappy Bird! This game is awesome! #crappybird #addicting #craptastic https://goo.gl/eDWvTO</string>
+    <string name="my_birds">My Birds</string>
+    <string name="signed_out">Disconnected from Google Play</string>
+    <string name="complete_achievements_to_unlock_more_birds">Complete achievements\nto unlock more birds.</string>
+    <string name="about">Crappy Bird would not have been possible without the generous contributions made by the following: \n\nGRAPHICS\n-RailroadNutJob (train)\n-sonicluke (plane)\n-DJBIG (spaceship)\n-CoffayBunny (gravestone)\n\nMUSIC\n-Jane Tangen</string>
+
+
+</resources>
